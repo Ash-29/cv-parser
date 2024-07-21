@@ -1,6 +1,6 @@
 # CV Parser
 
-A tool to convert PDF resumes into structured JSON format using OpenAI's GPT-3.5-turbo.
+A tool to convert PDF resumes into structured JSON format.
 
 ## Features
 
